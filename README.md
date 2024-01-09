@@ -3,3 +3,6 @@
 
 ### January 6
 ![Genuary 6](./Genuary_6/genuary6.gif)
+
+### January 7
+![Genuary 7](./Genuary_7/genuary7.gif)
