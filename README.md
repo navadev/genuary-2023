@@ -1,3 +1,6 @@
+### January 1
+![Genuary 12](./Genuary_1/genuary1.gif)
+
 ### January 5
 ![Genuary 5](./Genuary_5/genuary5.png)
 
